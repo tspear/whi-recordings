@@ -1,4 +1,3 @@
-HELLO WORLD
----
+# index
 
 this is index.md
